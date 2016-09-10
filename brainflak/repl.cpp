@@ -7,7 +7,9 @@ namespace brainflak {
             
             string prog;
             std::getline(std::cin, prog);
-            std::cout << prog << std::endl;
+            
+
+
         }
     }
 }
